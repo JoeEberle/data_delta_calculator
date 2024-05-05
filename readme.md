@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Data Delta Calculator - Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
 Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
 
@@ -9,8 +11,6 @@ Welcome to the solution **Data Delta Calculator** - an example for your projects
 Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
