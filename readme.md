@@ -1,17 +1,8 @@
-
-![Image image_filename](solution_sign.png)
-
-# Data Delta Calculator - Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
-Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Data Delta Calculator - Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded![Image image_filename](code.png)
 Welcome to the solution **Data Delta Calculator** - an example for your projects
 
 Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Data Delta Calculator** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -26,6 +17,9 @@ To get started with the **Data Delta Calculator** solution repository, follow th
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -35,13 +29,11 @@ To get started with the **Data Delta Calculator** solution repository, follow th
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](joe_logo.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
