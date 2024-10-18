@@ -4,20 +4,7 @@
 
 ## Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
 
-    
-# Table of Contents
-
-- [Solution Overview](#Solution-Overview)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Notebook Features](#notebook-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-![Image image_filename](code.png)
+    ![Image image_filename](code.png)
 Welcome to the solution **Data Delta Calculator** - an example for your projects
 
 Calculates the structural difference between raw data sources. Compares to LAST LOAD to determine what is NEW. This is for loading data incrementally over time so that history isn't constantly re-loaded
@@ -32,6 +19,15 @@ To get started with the **Data Delta Calculator** solution repository, follow th
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
     
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Data Delta Calculator** 
